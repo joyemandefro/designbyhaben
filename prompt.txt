@@ -1,0 +1,99 @@
+Step 1
+Create a basic HTML project with the following files:
+- index.html
+- style.css
+Include Tailwind CSS via CDN in the index.html file. 
+Set up a standard HTML5 boilerplate with a `<head>`, and `<body>`. 
+In the body, include a <div id="app"> where I can build the site.
+
+Step 2
+Inside the <div id="app">, add a navigation bar at the top with the following:
+- A logo on the left that says "Haben's Decor"
+- Navigation links on the right: Home, Services, Gallery, Contact
+Make it fixed to the top and responsive using Tailwind CSS.
+ Add a light background and soft shadow.
+
+
+Step 3
+Below the navigation, add a full-screen hero section with:
+- A background image (use a placeholder from Unsplash)
+- A centered large heading: "Transforming Moments into Memories"
+- A subheading: "Elegant decor for weddings, events, and celebrations"
+- A button: "View Our Work"
+Use Tailwind CSS to center all content and make it responsive.
+
+
+Step 4
+Add an 'About Us' section with:
+- A heading: "About Us"
+- A short paragraph about the business:
+ "We specialize in elegant and timeless wedding and event decorations, 
+ helping clients create unforgettable moments with beautiful and customized decor."
+- A soft background color
+Center the text and add padding for spacing.
+
+
+Step 5
+Create a 'Services' section with:
+- A heading: "Our Services"
+- Three cards, each with an icon, title, and short description:
+  1. Wedding Arches — "Elegant floral and fabric wedding arches"
+  2. Table Decor — "Customized centerpieces and table settings"
+  3. Backdrops & Lighting — "Photo-worthy backdrops with ambient lighting"
+Make the layout responsive using Tailwind's grid system.
+Use background images (use placeholder images from Unsplash)
+
+
+Step 6
+Add a 'Gallery' section with:
+- A heading: "Our Work"
+- A responsive grid of 6 images using Tailwind CSS
+ (use placeholder images from Unsplash)
+Ensure the layout adjusts for mobile and desktop screens.
+
+
+Step 7
+Create a testimonials section with:
+- A heading: "What Our Clients Say"
+- Three quote boxes with client names and short testimonials
+Style them with soft background colors, drop shadows, and rounded corners.
+
+
+Step 8
+Add a contact section with:
+- A heading: "Contact Us"
+- A form with fields: Name, Email, Message
+- A submit button
+Use Tailwind to style the form with padding, rounded inputs, and a background section.
+
+
+Step 9
+Add a footer with:
+- The text: "© 2025 Haben's Decor. All rights reserved."
+- Social media icons (you can use placeholders or simple text links 
+like Instagram, Facebook)
+Style it with a dark background and white text. Center the content.
+
+
+Step 10
+Ensure the entire website is responsive and mobile-friendly using Tailwind CSS classes.
+ Add spacing and flex/grid adjustments where needed so it looks good on phones
+and tablets.
+
+
+Step 11
+Improve the overall design by:
+- Using a consistent font across the site (e.g., add Google Font 
+like 'Inter' or 'Poppins')
+- Adding subtle animations on hover for buttons
+- Smoothing section transitions
+- Using soft shadows and rounded corners for a modern look
+Use Tailwind CSS.
+
+
+Step 12
+Preview and test
+
+Step 13
+Deployment on Github.
+you can use Netlify or Vercel
