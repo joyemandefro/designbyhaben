@@ -97,3 +97,7 @@ Preview and test
 Step 13
 Deployment on Github.
 you can use Netlify or Vercel
+
+<form action="https://formspree.io/f/mpwrovva" method="POST" class="...">
+  <!-- your fields -->
+</form>

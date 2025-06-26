@@ -97,10 +97,10 @@
         <section class="py-10 sm:py-16 bg-gray-50 transition-colors duration-500">
             <div class="max-w-2xl mx-auto px-2 sm:px-4">
                 <h2 class="text-2xl sm:text-3xl font-bold text-center text-gray-800 mb-6 sm:mb-8">Contact Us</h2>
-                <form class="bg-white p-6 sm:p-8 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-200 space-y-4 sm:space-y-6" action="mailto:designbyhaben89@gmail.com" method="POST" enctype="text/plain">
-                    <input type="text" placeholder="Name" class="w-full p-2 sm:p-3 rounded border border-gray-200 focus:outline-none focus:ring" required>
-                    <input type="email" placeholder="Email" class="w-full p-2 sm:p-3 rounded border border-gray-200 focus:outline-none focus:ring" required>
-                    <textarea placeholder="Message" class="w-full p-2 sm:p-3 rounded border border-gray-200 focus:outline-none focus:ring" rows="4" required></textarea>
+                <form action="https://formspree.io/f/mpwrovva" method="POST" class="bg-white p-6 sm:p-8 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-200 space-y-4 sm:space-y-6">
+                    <input type="text" name="name" placeholder="Name" class="w-full p-2 sm:p-3 rounded border border-gray-200 focus:outline-none focus:ring" required>
+                    <input type="email" name="email" placeholder="Email" class="w-full p-2 sm:p-3 rounded border border-gray-200 focus:outline-none focus:ring" required>
+                    <textarea name="message" placeholder="Message" class="w-full p-2 sm:p-3 rounded border border-gray-200 focus:outline-none focus:ring" rows="4" required></textarea>
                     <button type="submit" class="w-full bg-gray-800 text-white py-2 sm:py-3 rounded font-semibold hover:bg-gray-700 transition-transform duration-200 transform hover:scale-105">Send Message</button>
                 </form>
             </div>
