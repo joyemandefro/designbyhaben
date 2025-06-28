@@ -98,4 +98,13 @@ Step 13
 Deployment on Github.
 you can use Netlify or Vercel
 
+Step 13
+1. HTML Structure
+Add a hamburger button (three lines) that only shows on mobile.
+The nav links will be hidden on mobile and shown in a dropdown when the hamburger is clicked.
+2. Tailwind CSS
+Use Tailwind’s responsive classes (hidden, block, md:hidden, md:flex, etc.) to control visibility.
+Style the dropdown for a smooth, modern look.
+3. JavaScript
+Toggle the dropdown menu when the hamburger is clicke
 
